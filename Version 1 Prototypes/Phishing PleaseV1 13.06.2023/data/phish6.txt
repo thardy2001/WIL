@@ -1,0 +1,3 @@
+65,5,70,12,IDENTITY,samee@ihep.ac.cn
+36,70,15,10,LINK,TkI6Mal.exe
+26,80,15,8,LINK,http://bit.ly/Ui7Df41
