@@ -1,0 +1,17 @@
+McsT7yli@hotmail.com
+Microsoft Management and Support Team
+Was this you?
+We detected something unusual about a recent sign-in to your Microsoft account on a new device. If this was you, you don't need to do anything
+
+Sign-in details:
+Country/region: Canada
+IP address: 149.97.23.268
+Date: 9/13/2022 05:10 PM (GMT)
+Platform: Windows
+Browser: Chrome
+
+If not please go to your recent activity page to let us know whether or not this was you. If this wasn't you, we'll help you secure your account. If this was you,we'll trust similar activity in the future. Click the link below to secure your account now.
+{check activity}
+Thanks,
+The Microsoft account team
+[false,true,true,true,false]

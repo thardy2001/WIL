@@ -1,0 +1,15 @@
+samee@ihep.ac.cn
+Administrator
+INFO
+Dear User,
+
+Your E-mail would be blocked from sending and receiving emails if you have not updated your account in our new security platform.
+Please click {YES}, to update it,
+OR click {NO}, so we can delete it from our email database.
+
+This is very important
+
+
+Kind Regards
+[[-Mail-]]Admin
+[false,true,false,true,false]

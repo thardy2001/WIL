@@ -1,0 +1,14 @@
+lane18186@icloud.com
+Transaction Team
+Your request has been carried out.
+Dear Customer,
+
+
+The transaction was finished and your order was verified. You can independently verify it.
+Please refer to the accompanying document to download the recipt. We value having you here.
+Kindly call customer service at +61(250) 162-465 if you have not approved this transaction or wish to cancel your order
+
+
+
+Thank you.
+[false,true,true,false,false]
